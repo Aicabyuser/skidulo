@@ -1,0 +1,147 @@
+
+{
+  "header": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "testimonials": "Testimonials",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "demoBooking": "Demo Booking",
+    "login": "Log in",
+    "signup": "Sign up free"
+  },
+  "hero": {
+    "title": "Scheduling made simple",
+    "subtitle": "Eliminate back-and-forth emails. Skidulo helps you schedule meetings efficiently."
+  },
+  "stats": {
+    "meetings": "Meetings Scheduled",
+    "users": "Active Users",
+    "countries": "Countries",
+    "uptime": "Uptime"
+  },
+  "features": {
+    "title": "Everything you need",
+    "subtitle": "Powerful features to streamline your scheduling process"
+  },
+  "howItWorks": {
+    "title": "How Skidulo Works",
+    "subtitle": "Three simple steps to eliminate scheduling headaches",
+    "step1": {
+      "title": "Create your schedule",
+      "description": "Set your availability preferences and create bookable event types for different meeting scenarios."
+    },
+    "step2": {
+      "title": "Share your link",
+      "description": "Send your personalized Skidulo link to anyone who wants to meet with you, no account required for them."
+    },
+    "step3": {
+      "title": "Get booked",
+      "description": "They pick a time, and the event is added to both of your calendars with all the details you need."
+    }
+  },
+  "testimonials": {
+    "title": "What our users say",
+    "subtitle": "Thousands of professionals trust Skidulo for their scheduling needs"
+  },
+  "cta": {
+    "title": "Ready to simplify your scheduling?",
+    "subtitle": "Join thousands of professionals who've eliminated scheduling headaches with Skidulo.",
+    "getStarted": "Get started for free",
+    "noCreditCard": "No credit card required. Free plan includes all essential features."
+  },
+  "footer": {
+    "about": "About",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "blog": "Blog",
+    "rights": "All rights reserved."
+  },
+  "contact": {
+    "getInTouch": "Get in Touch",
+    "subtitle": "Have questions about Skidulo.com? We're here to help you streamline your scheduling process.",
+    "contactInfo": "Contact Information",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "businessHours": "Business Hours",
+    "mondayFriday": "Monday-Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "closed": "Closed",
+    "sendMessage": "Send Us a Message",
+    "name": "Name",
+    "yourName": "Your name",
+    "yourEmail": "Your email address",
+    "subject": "Subject",
+    "subjectPlaceholder": "What is this regarding?",
+    "message": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "subscribe": "Subscribe to our newsletter",
+    "subscribeDescription": "Get the latest updates and news about Skidulo",
+    "send": "Send Message"
+  },
+  "dashboard": {
+    "overview": "Overview",
+    "bookings": "Bookings",
+    "availability": "Availability",
+    "profile": "Profile",
+    "totalBookings": "Total Bookings",
+    "upcomingSessions": "Upcoming Sessions",
+    "completionRate": "Completion Rate",
+    "averageRating": "Average Rating",
+    "fromLastMonth": "from last month",
+    "nextSession": "Next session in 2 days",
+    "fromReviews": "From 18 client reviews",
+    "viewBookingPage": "View Booking Page"
+  },
+  "booking": {
+    "bookingDetails": "Booking Details",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "duration": "Duration",
+    "minutes": "minutes",
+    "yourInformation": "Your Information",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "notificationPreferences": "Notification Preferences",
+    "emailConfirmation": "Email Confirmation",
+    "emailConfirmationDesc": "Receive a confirmation email after booking",
+    "appointmentReminders": "Appointment Reminders",
+    "appointmentRemindersDesc": "Receive reminder emails before your appointment",
+    "additionalNotes": "Additional Notes (Optional)",
+    "notesPlaceholder": "Share anything that will help prepare for our meeting...",
+    "paymentInformation": "Payment Information",
+    "cardDetails": "Card Details",
+    "cardholderName": "Cardholder Name",
+    "cardNumber": "Card Number",
+    "expiryDate": "Expiry Date",
+    "cvv": "CVV",
+    "cancel": "Cancel",
+    "processing": "Processing...",
+    "processingRequest": "Processing your request...",
+    "payNow": "Pay Now",
+    "proceedToPayment": "Proceed to Payment",
+    "continue": "Continue",
+    "confirm": "Confirm",
+    "confirmBooking": "Confirm Booking",
+    "free": "Free",
+    "assistant": {
+      "title": "AI Booking Assistant",
+      "askAbout": "Ask about availability...",
+      "askAboutDate": "Ask about available times for",
+      "noSlots": "No available slots for",
+      "selectTime": "Select"
+    },
+    "providerNotFound": {
+      "title": "Provider Not Found",
+      "message": "The provider doesn't exist or their booking page isn't available.",
+      "returnHome": "Return to Homepage"
+    }
+  },
+  "language": {
+    "en": "English",
+    "nl": "Dutch"
+  }
+}

@@ -1,0 +1,147 @@
+
+{
+  "header": {
+    "features": "Functies",
+    "howItWorks": "Hoe het werkt",
+    "testimonials": "Recensies",
+    "pricing": "Prijzen",
+    "contact": "Contact",
+    "demoBooking": "Demo Boeking",
+    "login": "Inloggen",
+    "signup": "Gratis aanmelden"
+  },
+  "hero": {
+    "title": "Planning eenvoudig gemaakt",
+    "subtitle": "Geen heen-en-weer e-mails meer. Skidulo helpt je efficiënt afspraken te plannen."
+  },
+  "stats": {
+    "meetings": "Geplande Afspraken",
+    "users": "Actieve Gebruikers",
+    "countries": "Landen",
+    "uptime": "Uptime"
+  },
+  "features": {
+    "title": "Alles wat je nodig hebt",
+    "subtitle": "Krachtige functies om je planningsproces te stroomlijnen"
+  },
+  "howItWorks": {
+    "title": "Hoe Skidulo Werkt",
+    "subtitle": "Drie eenvoudige stappen om planningsproblemen te elimineren",
+    "step1": {
+      "title": "Maak je planning",
+      "description": "Stel je beschikbaarheid in en maak boekbare afspraaktypes voor verschillende scenario's."
+    },
+    "step2": {
+      "title": "Deel je link",
+      "description": "Stuur je persoonlijke Skidulo-link naar iedereen die met je wil afspreken, geen account nodig voor hen."
+    },
+    "step3": {
+      "title": "Word geboekt",
+      "description": "Ze kiezen een tijd, en de afspraak wordt aan beide agenda's toegevoegd met alle details die je nodig hebt."
+    }
+  },
+  "testimonials": {
+    "title": "Wat onze gebruikers zeggen",
+    "subtitle": "Duizenden professionals vertrouwen op Skidulo voor hun planningsbehoeften"
+  },
+  "cta": {
+    "title": "Klaar om je planning te vereenvoudigen?",
+    "subtitle": "Sluit je aan bij duizenden professionals die planningsproblemen hebben geëlimineerd met Skidulo.",
+    "getStarted": "Gratis beginnen",
+    "noCreditCard": "Geen creditcard vereist. Gratis plan bevat alle essentiële functies."
+  },
+  "footer": {
+    "about": "Over ons",
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "contact": "Contact",
+    "blog": "Blog",
+    "rights": "Alle rechten voorbehouden."
+  },
+  "contact": {
+    "getInTouch": "Neem Contact Op",
+    "subtitle": "Vragen over Skidulo.com? Wij helpen je graag je planningsproces te stroomlijnen.",
+    "contactInfo": "Contactgegevens",
+    "email": "E-mail",
+    "phone": "Telefoon",
+    "address": "Adres",
+    "businessHours": "Openingstijden",
+    "mondayFriday": "Maandag-Vrijdag",
+    "saturday": "Zaterdag",
+    "sunday": "Zondag",
+    "closed": "Gesloten",
+    "sendMessage": "Stuur Ons een Bericht",
+    "name": "Naam",
+    "yourName": "Jouw naam",
+    "yourEmail": "Jouw e-mailadres",
+    "subject": "Onderwerp",
+    "subjectPlaceholder": "Waar gaat dit over?",
+    "message": "Bericht",
+    "messagePlaceholder": "Hoe kunnen we je helpen?",
+    "subscribe": "Abonneer op onze nieuwsbrief",
+    "subscribeDescription": "Ontvang de laatste updates en nieuws over Skidulo",
+    "send": "Bericht Verzenden"
+  },
+  "dashboard": {
+    "overview": "Overzicht",
+    "bookings": "Boekingen",
+    "availability": "Beschikbaarheid",
+    "profile": "Profiel",
+    "totalBookings": "Totaal Boekingen",
+    "upcomingSessions": "Aankomende Sessies",
+    "completionRate": "Voltooiingspercentage",
+    "averageRating": "Gemiddelde Beoordeling",
+    "fromLastMonth": "vanaf vorige maand",
+    "nextSession": "Volgende sessie over 2 dagen",
+    "fromReviews": "Van 18 klantbeoordelingen",
+    "viewBookingPage": "Bekijk Boekingspagina"
+  },
+  "booking": {
+    "bookingDetails": "Boekingsdetails",
+    "selectDate": "Selecteer Datum",
+    "selectTime": "Selecteer Tijd",
+    "duration": "Duur",
+    "minutes": "minuten",
+    "yourInformation": "Jouw Informatie",
+    "fullName": "Volledige Naam",
+    "emailAddress": "E-mailadres",
+    "notificationPreferences": "Notificatievoorkeuren",
+    "emailConfirmation": "E-mailbevestiging",
+    "emailConfirmationDesc": "Ontvang een bevestigingsmail na boeking",
+    "appointmentReminders": "Afspraakherinneringen",
+    "appointmentRemindersDesc": "Ontvang herinneringsmails voor je afspraak",
+    "additionalNotes": "Aanvullende Notities (Optioneel)",
+    "notesPlaceholder": "Deel alles wat kan helpen bij de voorbereiding van onze afspraak...",
+    "paymentInformation": "Betalingsinformatie",
+    "cardDetails": "Kaartgegevens",
+    "cardholderName": "Naam Kaarthouder",
+    "cardNumber": "Kaartnummer",
+    "expiryDate": "Vervaldatum",
+    "cvv": "CVV",
+    "cancel": "Annuleren",
+    "processing": "Verwerken...",
+    "processingRequest": "Je aanvraag wordt verwerkt...",
+    "payNow": "Nu Betalen",
+    "proceedToPayment": "Doorgaan naar Betaling",
+    "continue": "Doorgaan",
+    "confirm": "Bevestigen",
+    "confirmBooking": "Boeking Bevestigen",
+    "free": "Gratis",
+    "assistant": {
+      "title": "AI Boekingsassistent",
+      "askAbout": "Vraag naar beschikbaarheid...",
+      "askAboutDate": "Vraag naar beschikbare tijden voor",
+      "noSlots": "Geen beschikbare tijdsloten voor",
+      "selectTime": "Selecteer"
+    },
+    "providerNotFound": {
+      "title": "Aanbieder Niet Gevonden",
+      "message": "De aanbieder bestaat niet of zijn boekingspagina is niet beschikbaar.",
+      "returnHome": "Terug naar Startpagina"
+    }
+  },
+  "language": {
+    "en": "Engels",
+    "nl": "Nederlands"
+  }
+}
