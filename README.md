@@ -1,69 +1,54 @@
-# Welcome to your Lovable project
+# Welcome to Skidulo
 
-## Project info
+A modern scheduling and booking platform built with React, Vite, and Supabase.
 
-**URL**: https://lovable.dev/projects/4f62a824-ea5e-4e3f-b932-b89c811e9168
+## Getting Started
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/4f62a824-ea5e-4e3f-b932-b89c811e9168) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+1. Clone the repository
+2. Install dependencies:
+```bash
+npm install
+```
+3. Start the development server:
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## Development
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Prerequisites
+- Node.js >= 18.0.0
+- npm
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
+### Tech Stack
+- React 18
 - Vite
 - TypeScript
-- React
-- shadcn-ui
 - Tailwind CSS
+- Radix UI
+- Supabase
 
-## How can I deploy this project?
+### Environment Variables
+Copy `.env.example` to `.env.local` and fill in your credentials:
+```bash
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_key
+```
 
-Simply open [Lovable](https://lovable.dev/projects/4f62a824-ea5e-4e3f-b932-b89c811e9168) and click on Share -> Publish.
+## Deployment
 
-## I want to use a custom domain - is that possible?
+The project is configured for deployment on Vercel:
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+1. Push your changes to the main branch
+2. Vercel will automatically deploy your changes
+3. Configure your custom domain in the Vercel dashboard
+
+## Contributing
+
+1. Create a feature branch
+2. Make your changes
+3. Submit a pull request
+
+## License
+
+MIT
